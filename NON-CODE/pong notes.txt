@@ -1,0 +1,11 @@
+BUGS
+ball/paddles may be clipping into objects/spaces 1 point.
+
+briana wants:
+power ups (i.e. longer paddle, more balls)
+
+to change:
+add score to title
+add computer opponent
+make stage wider, increase game pace, add median
+make speed change based on paddle hit more accurately (i.e. 30 chunks instead of 3)

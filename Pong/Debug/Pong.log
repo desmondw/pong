@@ -1,0 +1,20 @@
+﻿Build started 1/28/2011 1:31:07 AM.
+     1>Project "C:\Dez\Work\Gamemaking\Visual Studio Projects\Pong\Pong 1.1\Pong\Pong.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Pong.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Pong.unsuccessfulbuild".
+         Touching "Debug\Pong.lastbuildstate".
+     1>Done Building Project "C:\Dez\Work\Gamemaking\Visual Studio Projects\Pong\Pong 1.1\Pong\Pong.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
